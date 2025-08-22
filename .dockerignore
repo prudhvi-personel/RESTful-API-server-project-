@@ -1,0 +1,13 @@
+node_modules
+npm-debug.log
+Dockerfile
+.dockerignore
+.env
+*.log
+*.md
+*.test.js
+coverage
+dist
+build
+src/docs/api.yaml
+src/tests/
